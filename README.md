@@ -63,3 +63,78 @@ schedule and manage the many different activities that must be integrated into p
 implementation plan is updated throughout the Development phase, culminating in a 
 changeover plan for the operation phase. The major elements of implementation plan are test 
 plan, training plan, equipment installation plan, and a conversion plan.
+9.3 Testing Report: 
+Customer Registration: 
+Serial 
+No. 
+Condition 
+To be 
+Tested 
+ 
+Test Data 
+ 
+Expected Output 
+ 
+Remarks 
+ 
+1. 
+If the Email Id is 
+empty 
+ 
+Email Id 
+Email Id should not be 
+empty 
+ 
+SUCCESSFUL 
+ 
+2. 
+If the password is 
+empty 
+ 
+Password 
+Password should not be 
+empty 
+ 
+SUCCESSFUL 
+ 
+ 
+3. 
+If the entered 
+password size is 
+less 
+than 8 
+ 
+ 
+Password 
+ 
+ 
+Password should contain 
+more than 8 characters 
+ 
+ 
+SUCCESSFUL 
+4. If the entered email 
+Id and 
+password is not 
+valid 
+ 
+Email Id, 
+Password 
+ 
+Entered Login 
+credentials 
+not valid 
+ 
+ 
+SUCCESSFUL 
+ 
+5. If Email Id and 
+password is valid 
+Email Id, 
+Password 
+ 
+Logged in successfully 
+ 
+SUCCESSFUL 
+4. If User Image is 
+not Add User Image Add the User Image SUCCESSFUL
